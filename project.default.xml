@@ -1,32 +1,30 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerConfiguration">
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="true" />
-        </annotationProcessing>
-        <bytecodeTargetLevel target="1.8" />
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/CELMS" value="20604629786000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/caseworker---backend" value="2957865082000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/ce-lms" value="19099653365000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/egc2.0" value="2972600056000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/gradle-script-kotlin" value="4415311107000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/gradle-script-kotlin/samples/hello-world" value="1471770369000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Java/mdcps" value="2956178263000" />
+            <entry key="$USER_HOME$/Documents/Dev/Projects/Kotlin/smlr" value="1477712034000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
       </component>
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="Kotlin2JsCompilerArguments">
-        <option name="moduleKind" value="plain" />
-      </component>
-      <component name="Kotlin2JvmCompilerArguments">
-        <option name="jvmTarget" value="1.8" />
-      </component>
-      <component name="KotlinCommonCompilerArguments">
-        <option name="languageVersion" value="1.1" />
-        <option name="apiVersion" value="1.1" />
-        <option name="coroutinesWarn" value="true" />
-      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-        <property name="project.structure.last.edited" value="Project" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="editing.templates" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -116,32 +114,21 @@
           <method />
         </configuration>
       </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/Dev/Coursera/Scala/funsets" value="1462309040000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="masterDetails">
         <states>
-          <state key="GlobalLibrariesConfigurable.UI">
+          <state key="ProjectJDKs.UI">
             <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
