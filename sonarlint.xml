@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://celmsdev:9000" />
+          <option name="name" value="CELMS Dev Sonar" />
+          <option name="login" value="admin" />
+          <password>dfcbdfcedfc7dfc3dfc4</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
