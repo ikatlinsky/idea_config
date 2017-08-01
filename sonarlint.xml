@@ -8,6 +8,12 @@
           <option name="login" value="admin" />
           <password>dfcbdfcedfc7dfc3dfc4</password>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://35.176.93.92:9000/" />
+          <token>df9adfc9df93df9ddfccdf9ddf9cdfc9dfcfdf9edf93df9adf9adf99df9ddfccdfc9df93dfccdf9edfc9df9adf9adf93df9edfc8df9bdf9edfcbdfc8df99df9edf9fdf9ddf93dfcedfcedf93df98df9a</token>
+          <option name="name" value="IotaTech Sonarqube" />
+          <organizationKey />
+        </SonarQubeServer>
       </list>
     </option>
   </component>
