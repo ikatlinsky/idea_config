@@ -1,39 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.gradle</mask>
-      <mask>*.gradl</mask>
-      <mask>*.grad</mask>
-      <mask>*.gra</mask>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
-      <mask>*.java</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-    </recentFileMasks>
   </component>
 </application>
