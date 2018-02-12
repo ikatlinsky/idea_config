@@ -49,6 +49,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'JaversRepositoryTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'JaversRepositoryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TableChecksumCalculatorTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>328</Count>
+          <Count>331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -110,7 +118,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>85</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -302,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'JaversRepositoryTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'JaversRepositoryTest.givenPayload_whenApplyChangeSet_thenCheckThatDataIsSaved'">
@@ -318,7 +326,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'JaversRepositoryTest.givenPayload_whenDelete_thenCheckTerminalState'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PublishServiceTest'">
@@ -406,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>430</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -422,7 +430,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>128</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
