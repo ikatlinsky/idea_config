@@ -22,7 +22,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>30</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -142,7 +142,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>37</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
