@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>358</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -383,6 +383,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'TenantActivationServiceTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TenantServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TenantServiceTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ViewDivisionServiceTest'">
