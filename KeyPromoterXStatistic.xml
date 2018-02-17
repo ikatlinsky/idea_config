@@ -494,7 +494,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>153</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -510,7 +510,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'clm:clm-common [javadoc]'">
