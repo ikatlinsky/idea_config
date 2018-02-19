@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>377</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -158,7 +158,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>58</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -198,7 +198,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>108</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -231,6 +231,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All in clm-configuration-service_test'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AuthenticationServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'AuthenticationServiceTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ChangeSetCheckSumServiceTest'">
