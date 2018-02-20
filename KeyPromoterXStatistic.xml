@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'givenEffectiveDate...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'givenEffectiveDate...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'givenNotExistToId_...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -393,6 +401,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ProductVersionServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ProductVersionServiceTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PublishServiceTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -494,7 +510,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>505</Count>
+          <Count>506</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -542,7 +558,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>226</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
