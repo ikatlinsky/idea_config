@@ -393,6 +393,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DiscoveryApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DiscoveryApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'EntityCaptionFactoryTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -638,6 +646,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in clm-claims-service_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DiscoveryApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DiscoveryApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
