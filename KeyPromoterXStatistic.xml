@@ -417,6 +417,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GatewayApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'GatewayApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'JaversConfigurationTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
