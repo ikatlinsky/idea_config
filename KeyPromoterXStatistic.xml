@@ -606,7 +606,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>216</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -630,7 +630,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>309</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
