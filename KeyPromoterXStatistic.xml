@@ -369,6 +369,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ClaimFlowControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClaimFlowControllerTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ClaimItemQuestionControllerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
