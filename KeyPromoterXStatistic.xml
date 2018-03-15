@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>792</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>253</Count>
+          <Count>254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
