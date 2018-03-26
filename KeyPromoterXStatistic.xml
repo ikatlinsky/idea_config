@@ -169,6 +169,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'givenVersionIdAndE...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'givenVersionIdAndE...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'givenViewVersionId...()'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -190,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>950</Count>
+          <Count>951</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -577,6 +585,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'PartyFlowOptionsBuilderTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'PartyFlowOptionsBuilderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ProductControllerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -670,7 +686,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ViewDefinitionVersionServiceTest'</Description>
-          <Count>12</Count>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ViewDefinitionVersionServiceTest.givenVersionIdAndEntityIds_whenGetClaimSupportedCustomEntities_thenReturnLookupResults'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ViewDefinitionVersionServiceTest.givenVersionIdAndEntityIds_whenGetClaimSupportedCustomEntities_thenReturnLookupResults'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ViewDivisionServiceTest'">
@@ -734,7 +758,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1108</Count>
+          <Count>1119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -806,7 +830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>395</Count>
+          <Count>398</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
