@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>72</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'JaversRepositoryTest'">
@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>970</Count>
+          <Count>989</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -774,7 +774,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>310</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
