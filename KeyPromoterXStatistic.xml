@@ -230,7 +230,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1101</Count>
+          <Count>1102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -319,6 +319,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Refresh</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload PlantUml Diagrams">
+        <Item>
+          <IdeaActionID>PlantUML.Reload</IdeaActionID>
+          <ShortCut>'⌥⇧⌘G'</ShortCut>
+          <Description>Reload PlantUml Diagrams</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -911,6 +919,14 @@
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update PlantUml Diagrams - changes only">
+        <Item>
+          <IdeaActionID>PlantUML.Update</IdeaActionID>
+          <ShortCut>'⌥⇧⌘F'</ShortCut>
+          <Description>Update PlantUml Diagrams - changes only</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
