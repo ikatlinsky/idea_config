@@ -854,7 +854,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>417</Count>
+          <Count>422</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
