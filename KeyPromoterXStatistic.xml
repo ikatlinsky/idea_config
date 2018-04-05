@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1135</Count>
+          <Count>1138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -342,7 +342,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>242</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -854,7 +854,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>326</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -878,7 +878,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>423</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
