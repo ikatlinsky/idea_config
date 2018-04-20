@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1245</Count>
+          <Count>1247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -631,6 +631,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FnolDivisionServiceImplTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FnolDivisionServiceImplTest.givenDivisionId_whenDelete_thenTriggerDeleteOperation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FnolDivisionServiceImplTest.givenDivisionId_whenDelete_thenTriggerDeleteOperation'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FnolViewNodeTransformerTest'">
