@@ -630,7 +630,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'FnolDivisionServiceImplTest'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FnolDivisionServiceImplTest.givenDivisionId_whenDelete_thenTriggerDeleteOperation'">
