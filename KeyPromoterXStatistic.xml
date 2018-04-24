@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1276</Count>
+          <Count>1280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -649,6 +649,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'FnolLogicQuestionServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'FnolLogicQuestionServiceTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FnolViewNodeTransformerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -950,7 +958,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>348</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1015,6 +1023,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DiscoveryApplication'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FnolLogicQuestionServiceTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'FnolLogicQuestionServiceTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FnolViewVersionRepositoryTest'">
