@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1337</Count>
+          <Count>1340</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -366,7 +366,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>268</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -847,6 +847,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ProductRepositoryTest'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProductServiceTest (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ProductServiceTest (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ProductServiceTest'">
