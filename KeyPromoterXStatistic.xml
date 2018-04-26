@@ -801,6 +801,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MasterViewRuleControllerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'MasterViewRuleControllerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PartyFlowOptionsBuilderTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
