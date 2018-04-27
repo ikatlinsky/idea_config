@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -1041,6 +1041,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'uk.co.iotatech.configuration.service.view.fnol.impl.validation in clm-configuration-service_test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'uk.co.iotatech.configuration.service.view.fnol.impl.validation in clm-configuration-service_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun in Debug Mode">
         <Item>
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
@@ -1079,6 +1087,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
           <Count>53</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'uk.co.iotatech.configuration.s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'uk.co.iotatech.configuration.s...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop">
