@@ -278,7 +278,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -359,6 +359,14 @@
           <ShortCut>'⌥⇧⌘G'</ShortCut>
           <Description>Reload PlantUml Diagrams</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Configuration">
+        <Item>
+          <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Configuration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1041,6 +1049,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.kube.micro.discovery.KubeDiscoveryServerApplicationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'com.kube.micro.discovery.KubeDiscoveryServerApplicationKt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'uk.co.iotatech.configuration.service.view.fnol.impl.validation in clm-configuration-service_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1078,7 +1094,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>472</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1150,6 +1166,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'clm:clm-common [javadoc]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.kube.micro.discovery.KubeDiscoveryServerApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.kube.micro.discovery.KubeDiscoveryServerApplicationKt'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
