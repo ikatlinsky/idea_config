@@ -374,7 +374,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>285</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1049,6 +1049,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.kube.micro.configserver.KubeConfigServerApplicationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'com.kube.micro.configserver.KubeConfigServerApplicationKt'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.kube.micro.discovery.KubeDiscoveryServerApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1062,7 +1070,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'com.kube.micro.gateway.GatewayApplicationKt'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'uk.co.iotatech.configuration.service.view.fnol.impl.validation in clm-configuration-service_test'">
@@ -1102,7 +1110,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>478</Count>
+          <Count>482</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
