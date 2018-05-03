@@ -50,6 +50,10 @@
           <option name="url" value="https://ikatlinsky@bitbucket.nsparc.msstate.edu/scm/mo/snap-integrity-caseman-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ikatlinsky@bitbucket.nsparc.msstate.edu/scm/mymdhs/web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/work/projects" />
