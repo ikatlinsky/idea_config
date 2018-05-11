@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -262,7 +262,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1451</Count>
+          <Count>1458</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -302,7 +302,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>206</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -374,7 +374,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>320</Count>
+          <Count>322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>505</Count>
+          <Count>506</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
