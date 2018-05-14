@@ -1065,6 +1065,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'clm:clm-documentation [asciidoctor]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'clm:clm-documentation [asciidoctor]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.kube.micro.configserver.KubeConfigServerApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
