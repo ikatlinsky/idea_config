@@ -1166,7 +1166,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>414</Count>
+          <Count>415</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>536</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1257,6 +1257,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ProductRepositoryTest.whenGetProducts_thenReturnResult'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ProductRepositoryTest.whenGetProducts_thenReturnResult'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'clm:clm-common [javadoc]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1286,7 +1294,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>531</Count>
+          <Count>532</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
