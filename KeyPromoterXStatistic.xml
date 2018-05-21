@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1647</Count>
+          <Count>1652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -318,7 +318,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>243</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
@@ -1153,6 +1153,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'edu.msstate.nsparc.abe.repositories in ABE'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'edu.msstate.nsparc.abe.repositories in ABE'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'uk.co.iotatech.configuration.service.view.fnol.impl.validation in clm-configuration-service_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1198,7 +1206,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>57</Count>
+          <Count>59</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'edu.msstate.nsparc.abe.repositories''">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Tests in 'edu.msstate.nsparc.abe.repositories''</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'uk.co.iotatech.configuration.s...'">
