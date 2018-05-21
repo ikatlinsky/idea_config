@@ -1166,7 +1166,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>420</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1412</Count>
+          <Count>1413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
