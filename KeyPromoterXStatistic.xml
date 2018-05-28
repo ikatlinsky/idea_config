@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClaimantCaptionTransformerTest'">
@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1829</Count>
+          <Count>1838</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>553</Count>
+          <Count>556</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>103</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-change-management-service_test'">
