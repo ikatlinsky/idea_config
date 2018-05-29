@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1915</Count>
+          <Count>1918</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -318,7 +318,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>292</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
@@ -446,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All in clm-claims-service_test'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in clm-configuration-service_test'">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>501</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
