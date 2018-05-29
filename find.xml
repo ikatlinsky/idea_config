@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'clm-claims-service_main'" />
-    <option name="defaultScopeName" value="Module 'clm-claims-service_main'" />
+    <option name="customScope" value="Module 'clm-configuration-service'" />
+    <option name="defaultScopeName" value="Module 'clm-configuration-service'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'clm-claims-service_main'" />
+    <option name="SEARCH_SCOPE" value="Module 'clm-configuration-service'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
