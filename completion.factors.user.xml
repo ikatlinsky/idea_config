@@ -524,8 +524,8 @@
         <observation name="typedSelect" value="17.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="cancelled" value="148.0" />
-        <observation name="explicitSelect" value="8.0" />
+        <observation name="cancelled" value="150.0" />
+        <observation name="explicitSelect" value="9.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -545,7 +545,7 @@
         <observation name="BASIC" value="29.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="BASIC" value="8.0" />
+        <observation name="BASIC" value="9.0" />
         <observation name="SMART" value="1.0" />
       </dailyData>
     </factor>
@@ -566,7 +566,7 @@
         <observation name="count" value="71.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="count" value="156.0" />
+        <observation name="count" value="159.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -1467,7 +1467,7 @@
       </dailyData>
       <dailyData date="4-6-2018">
         <observation name="0" value="6.0" />
-        <observation name="1" value="2.0" />
+        <observation name="1" value="3.0" />
       </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
@@ -1492,8 +1492,8 @@
         <observation name="withMnemonics" value="0.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="total" value="6.0" />
-        <observation name="withMnemonics" value="0.0" />
+        <observation name="total" value="7.0" />
+        <observation name="withMnemonics" value="1.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
@@ -1544,6 +1544,7 @@
         <observation name="2" value="2.0" />
         <observation name="3" value="3.0" />
         <observation name="5" value="1.0" />
+        <observation name="6" value="1.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
@@ -1568,8 +1569,8 @@
         <observation name="count" value="51.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="180.0" />
-        <observation name="count" value="10.0" />
+        <observation name="average" value="176.9" />
+        <observation name="count" value="20.0" />
       </dailyData>
     </factor>
   </component>
