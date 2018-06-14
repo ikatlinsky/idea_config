@@ -430,7 +430,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>418</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
