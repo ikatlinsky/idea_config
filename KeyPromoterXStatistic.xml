@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2229</Count>
+          <Count>2235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -977,6 +977,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ScratchpadNoteServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ScratchpadNoteServiceTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TableChecksumCalculatorTest.givenProductLineType_whenCalculate_thenReturnChecksum'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1206,7 +1214,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>631</Count>
+          <Count>634</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
