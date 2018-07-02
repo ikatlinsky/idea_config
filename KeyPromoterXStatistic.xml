@@ -1150,7 +1150,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'com.ikatlinsky.reactiveboot.ReactiveBootApplicationKt'</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.kube.micro.configserver.KubeConfigServerApplicationKt'">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'com.ikatlinsky.reactiveboot.ReactiveBootApplicationKt'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.kube.micro.discovery.KubeDiscoveryServerApplicationKt'">
