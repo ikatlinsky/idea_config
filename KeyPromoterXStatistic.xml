@@ -1353,6 +1353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.ikatlinsky.ApplicationKt'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.ikatlinsky.ApplicationKt'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'com.ikatlinsky.reactiveboot.ReactiveBootApplicationKt'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
