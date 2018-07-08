@@ -278,7 +278,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2337</Count>
+          <Count>2338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1150,6 +1150,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'clm:clm-documentation [asciidoctor]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.ikatlinsky.ApplicationKt'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'com.ikatlinsky.ApplicationKt'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
