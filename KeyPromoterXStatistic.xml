@@ -70,7 +70,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>144</Count>
+          <Count>147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClaimantCaptionTransformerTest'">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2383</Count>
+          <Count>2386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -438,7 +438,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>466</Count>
+          <Count>467</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
