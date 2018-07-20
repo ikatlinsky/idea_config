@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2466</Count>
+          <Count>2468</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1246,7 +1246,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>627</Count>
+          <Count>628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>69</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'edu.msstate.nsparc.abe.repositories''">
