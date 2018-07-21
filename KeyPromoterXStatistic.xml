@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Analyze Current File">
@@ -55,6 +55,14 @@
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
           <Count>72</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
