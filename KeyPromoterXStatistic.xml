@@ -1081,6 +1081,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TenantTransformerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TenantTransformerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ThirdPartyRepositoryTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
