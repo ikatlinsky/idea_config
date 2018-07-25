@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2504</Count>
+          <Count>2507</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -318,7 +318,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>292</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>635</Count>
+          <Count>637</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2089</Count>
+          <Count>2094</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>715</Count>
+          <Count>716</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>779</Count>
+          <Count>781</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
