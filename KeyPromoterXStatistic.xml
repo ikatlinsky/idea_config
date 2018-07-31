@@ -318,7 +318,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>297</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>641</Count>
+          <Count>643</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2103</Count>
+          <Count>2105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>788</Count>
+          <Count>789</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
