@@ -78,7 +78,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>201</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClaimantCaptionTransformerTest'">
@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2692</Count>
+          <Count>2696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>773</Count>
+          <Count>774</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>783</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
