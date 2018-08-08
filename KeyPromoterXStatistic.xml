@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2697</Count>
+          <Count>2699</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>803</Count>
+          <Count>812</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>165</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-change-management-service_test'">
