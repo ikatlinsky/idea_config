@@ -342,7 +342,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>447</Count>
+          <Count>450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
