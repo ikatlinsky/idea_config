@@ -310,7 +310,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
