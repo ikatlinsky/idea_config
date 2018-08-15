@@ -1278,7 +1278,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>804</Count>
+          <Count>805</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
