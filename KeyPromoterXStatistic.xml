@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2799</Count>
+          <Count>2800</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>840</Count>
+          <Count>841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
