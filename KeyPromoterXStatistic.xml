@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2841</Count>
+          <Count>2844</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -342,7 +342,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>460</Count>
+          <Count>461</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
@@ -454,7 +454,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>633</Count>
+          <Count>634</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>942</Count>
+          <Count>943</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
