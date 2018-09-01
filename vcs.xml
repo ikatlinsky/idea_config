@@ -114,6 +114,14 @@
           <option name="url" value="https://github.com/fondueInTheCity/EverNote.Client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://katlinskyi@bitbucket.org/anastaciaOnix/notes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:anastaciaOnix/notes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/sandbox" />
