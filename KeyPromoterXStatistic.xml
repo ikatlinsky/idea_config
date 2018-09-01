@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>103</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -62,7 +62,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -342,7 +342,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>478</Count>
+          <Count>479</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
