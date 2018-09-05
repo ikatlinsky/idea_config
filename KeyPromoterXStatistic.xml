@@ -1033,6 +1033,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SessionTimeoutInterceptorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'SessionTimeoutInterceptorTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TableChecksumCalculatorTest.givenProductLineType_whenCalculate_thenReturnChecksum'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
