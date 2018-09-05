@@ -470,7 +470,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>645</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>932</Count>
+          <Count>933</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2625</Count>
+          <Count>2626</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
