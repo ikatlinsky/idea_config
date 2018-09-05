@@ -294,7 +294,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2973</Count>
+          <Count>2974</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>931</Count>
+          <Count>932</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2615</Count>
+          <Count>2625</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>44</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>883</Count>
+          <Count>884</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>196</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-change-management-service_test'">
