@@ -1302,7 +1302,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>937</Count>
+          <Count>938</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2635</Count>
+          <Count>2638</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
