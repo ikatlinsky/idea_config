@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>115</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -47,6 +47,14 @@
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Paths">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'⇧⌘C'</ShortCut>
+          <Description>Copy Paths</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -390,7 +398,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>120</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview the current selected bug.">
