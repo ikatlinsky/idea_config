@@ -94,7 +94,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>265</Count>
+          <Count>266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClaimantCaptionTransformerTest'">
@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3058</Count>
+          <Count>3065</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -382,7 +382,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Navigation Bar">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>984</Count>
+          <Count>986</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
