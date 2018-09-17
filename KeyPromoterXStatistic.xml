@@ -326,7 +326,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>108</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -486,7 +486,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>677</Count>
+          <Count>678</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1326,7 +1326,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>981</Count>
+          <Count>982</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
