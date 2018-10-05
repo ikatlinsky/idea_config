@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>147</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -94,7 +94,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>295</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ClaimantCaptionTransformerTest'">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1063</Count>
+          <Count>1065</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
