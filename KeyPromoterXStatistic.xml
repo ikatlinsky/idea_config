@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3247</Count>
+          <Count>3248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1069</Count>
+          <Count>1070</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -1342,7 +1342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2702</Count>
+          <Count>2705</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1047</Count>
+          <Count>1049</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
