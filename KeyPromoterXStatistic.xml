@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1046</Count>
+          <Count>1052</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1066</Count>
+          <Count>1067</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
