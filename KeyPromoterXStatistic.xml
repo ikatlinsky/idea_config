@@ -502,7 +502,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>744</Count>
+          <Count>745</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
