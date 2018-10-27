@@ -374,7 +374,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1082</Count>
+          <Count>1085</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>2733</Count>
+          <Count>2737</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1654,7 +1654,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1078</Count>
+          <Count>1081</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
