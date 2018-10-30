@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3383</Count>
+          <Count>3390</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -406,7 +406,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>517</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go to next highlighted element usage">
@@ -454,7 +454,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview the current selected bug.">
@@ -542,7 +542,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>796</Count>
+          <Count>798</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
