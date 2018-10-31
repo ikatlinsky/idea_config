@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>164</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1099</Count>
+          <Count>1100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
