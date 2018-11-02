@@ -374,7 +374,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>141</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -799,6 +799,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DataModelTreeServiceImplTest'</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DemoApplication'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DiscoveryApplication'">
@@ -1446,7 +1454,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1125</Count>
+          <Count>1128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1551,6 +1559,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AuditTrailPocApplication'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DemoApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DiscoveryApplication'">
