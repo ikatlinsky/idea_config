@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3439</Count>
+          <Count>3443</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -374,7 +374,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>140</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -382,7 +382,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>425</Count>
+          <Count>426</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1414,7 +1414,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1086</Count>
+          <Count>1087</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1662,7 +1662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1097</Count>
+          <Count>1099</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
