@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>19</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -46,7 +46,7 @@
           <IdeaActionID>RunDashboard.CopyConfiguration</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Copy Configuration...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -382,7 +382,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>161</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -566,7 +566,7 @@
           <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove Configuration</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1157</Count>
+          <Count>1170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1527,6 +1527,14 @@
           <ShortCut>'⌥⇧A'</ShortCut>
           <Description>Show All Affected Files</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Configurations">
+        <Item>
+          <IdeaActionID>RunDashboard.ShowConfigurations</IdeaActionID>
+          <ShortCut>'⇧⌘T'</ShortCut>
+          <Description>Show Configurations</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
