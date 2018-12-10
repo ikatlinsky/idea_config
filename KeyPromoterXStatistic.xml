@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>375</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3824</Count>
+          <Count>3825</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -430,7 +430,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>569</Count>
+          <Count>572</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1277</Count>
+          <Count>1279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3278</Count>
+          <Count>3280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1742,7 +1742,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1239</Count>
+          <Count>1241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
