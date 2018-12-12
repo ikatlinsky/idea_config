@@ -398,7 +398,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>194</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1273</Count>
+          <Count>1274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
