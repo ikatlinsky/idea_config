@@ -1470,7 +1470,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1319</Count>
+          <Count>1320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3310</Count>
+          <Count>3313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1302</Count>
+          <Count>1306</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
