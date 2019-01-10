@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3956</Count>
+          <Count>3958</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1518,7 +1518,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1343</Count>
+          <Count>1347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>282</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
