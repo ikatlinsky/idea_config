@@ -1526,7 +1526,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1379</Count>
+          <Count>1380</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1678,6 +1678,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FnolViewVersionRepositoryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MonitoringApplication (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MonitoringApplication (1)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
