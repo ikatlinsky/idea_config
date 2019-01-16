@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>191</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3993</Count>
+          <Count>3994</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>109</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tests in 'edu.msstate.nsparc.abe.repositories''">
@@ -1630,7 +1630,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in clm-change-management-service_test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-claims-service_test'">
@@ -1638,7 +1638,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'All in clm-claims-service_test'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AuditTrailPocApplication'">
