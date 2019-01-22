@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>413</Count>
+          <Count>414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4011</Count>
+          <Count>4016</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -406,7 +406,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>522</Count>
+          <Count>523</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -438,7 +438,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>606</Count>
+          <Count>607</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -622,7 +622,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1035</Count>
+          <Count>1036</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3816</Count>
+          <Count>3818</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
