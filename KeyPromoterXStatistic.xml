@@ -1550,7 +1550,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1451</Count>
+          <Count>1453</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>323</Count>
+          <Count>324</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
