@@ -4,8 +4,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="segments_1" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="helper" type="PLAIN_TEXT" />
+      <mapping pattern="segments_1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
