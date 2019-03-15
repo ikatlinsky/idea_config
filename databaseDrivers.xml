@@ -60,11 +60,15 @@
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" rolling="false" use="true" version="42.2.0" />
+      <artifact name="PostgreSQL" rolling="false" version="42.2.0" />
       <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
+      <option name="schema-control" value="AUTOMATIC" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <library>
+        <url>file://$USER_HOME$/Downloads/postgresql-42.2.5.jar</url>
+      </library>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="redshift">
@@ -119,6 +123,11 @@
     <driver id="hive">
       <artifact name="Hive" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="greenplum">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
   </component>
 </application>
