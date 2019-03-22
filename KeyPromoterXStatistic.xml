@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>422</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -366,7 +366,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4219</Count>
+          <Count>4220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3870</Count>
+          <Count>3879</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1505</Count>
+          <Count>1507</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>346</Count>
+          <Count>348</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
@@ -1814,7 +1814,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1368</Count>
+          <Count>1373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
