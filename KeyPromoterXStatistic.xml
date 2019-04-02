@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>440</Count>
+          <Count>445</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4336</Count>
+          <Count>4357</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -414,7 +414,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>570</Count>
+          <Count>574</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -446,7 +446,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>672</Count>
+          <Count>679</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1512</Count>
+          <Count>1522</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4132</Count>
+          <Count>4163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1461</Count>
+          <Count>1470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
