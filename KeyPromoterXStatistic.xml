@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>446</Count>
+          <Count>447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4411</Count>
+          <Count>4413</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -406,7 +406,7 @@
           <IdeaActionID>RunDashboard.EditConfiguration</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Configuration...</Description>
-          <Count>236</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -414,7 +414,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>579</Count>
+          <Count>581</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -630,7 +630,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1122</Count>
+          <Count>1123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1546</Count>
+          <Count>1549</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1550,7 +1550,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4231</Count>
+          <Count>4236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
