@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4422</Count>
+          <Count>4425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -446,7 +446,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>701</Count>
+          <Count>702</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -630,7 +630,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1126</Count>
+          <Count>1127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
