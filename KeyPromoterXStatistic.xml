@@ -30,7 +30,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>230</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -374,7 +374,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4534</Count>
+          <Count>4538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -630,7 +630,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1190</Count>
+          <Count>1201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>73</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1566,7 +1566,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1625</Count>
+          <Count>1629</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1662,7 +1662,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>379</Count>
+          <Count>382</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
