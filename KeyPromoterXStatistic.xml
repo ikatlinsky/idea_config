@@ -1697,6 +1697,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CoverRepositoryTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CoverRepositoryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1758,6 +1766,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ProductRepositoryTest.whenGetProducts_thenReturnResult'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
