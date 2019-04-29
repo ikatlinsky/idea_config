@@ -70,7 +70,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>211</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4811</Count>
+          <Count>4814</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -462,7 +462,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>776</Count>
+          <Count>777</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1668</Count>
+          <Count>1669</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1667</Count>
+          <Count>1668</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
