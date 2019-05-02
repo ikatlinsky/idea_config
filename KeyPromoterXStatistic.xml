@@ -1558,7 +1558,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1699</Count>
+          <Count>1701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4743</Count>
+          <Count>4760</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>420</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
@@ -1894,7 +1894,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1671</Count>
+          <Count>1673</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
