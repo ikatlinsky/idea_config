@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4887</Count>
+          <Count>4891</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -430,7 +430,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>645</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1698</Count>
+          <Count>1699</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>4736</Count>
+          <Count>4743</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
