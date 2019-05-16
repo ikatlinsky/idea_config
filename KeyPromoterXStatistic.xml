@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>507</Count>
+          <Count>508</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1761</Count>
+          <Count>1762</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1894,7 +1894,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1716</Count>
+          <Count>1717</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
