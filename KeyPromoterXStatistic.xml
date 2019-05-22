@@ -102,7 +102,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>519</Count>
+          <Count>521</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5059</Count>
+          <Count>5072</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1811</Count>
+          <Count>1813</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1590,7 +1590,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5206</Count>
+          <Count>5210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
