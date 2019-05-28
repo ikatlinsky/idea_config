@@ -646,7 +646,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1273</Count>
+          <Count>1274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1723</Count>
+          <Count>1726</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>437</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
