@@ -158,6 +158,10 @@
           <option name="url" value="https://github.com/Swagger2Markup/spring-swagger2markup-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.itransition.com/scm/pcre/proactive-chat-rules-engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/sandbox" />
