@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Actual Size">
+        <Item>
+          <IdeaActionID>Graph.ActualSize</IdeaActionID>
+          <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
+          <Description>Actual Size</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add">
         <Item>
           <IdeaActionID>Git.Add</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>Graph.ApplyCurrentLayout</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Apply Current Layout</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -1622,7 +1630,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1710,7 +1718,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Diagram...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -1718,7 +1726,7 @@
           <IdeaActionID>UML.ShowChanges</IdeaActionID>
           <ShortCut>'⌥⇧⌘D'</ShortCut>
           <Description>Show Local Changes as UML</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
