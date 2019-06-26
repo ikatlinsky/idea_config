@@ -1606,7 +1606,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1857</Count>
+          <Count>1858</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
