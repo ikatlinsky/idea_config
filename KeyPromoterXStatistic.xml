@@ -1961,6 +1961,14 @@
           <Count>1835</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Unlink Gradle Project">
+        <Item>
+          <IdeaActionID>ExternalSystem.DetachProject</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Unlink Gradle Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Unshelve...">
         <Item>
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
