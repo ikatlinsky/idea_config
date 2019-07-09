@@ -454,7 +454,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>689</Count>
+          <Count>690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1868</Count>
+          <Count>1870</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5386</Count>
+          <Count>5387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1835</Count>
+          <Count>1836</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unlink Gradle Project">
