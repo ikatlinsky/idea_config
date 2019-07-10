@@ -486,7 +486,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>894</Count>
+          <Count>895</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
