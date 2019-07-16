@@ -118,7 +118,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Debug</Description>
-          <Count>534</Count>
+          <Count>536</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All Tests'">
@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>246</Count>
+          <Count>282</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -454,7 +454,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>697</Count>
+          <Count>701</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -486,7 +486,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>913</Count>
+          <Count>916</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1909</Count>
+          <Count>1914</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5485</Count>
+          <Count>5609</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1638,7 +1638,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1825</Count>
+          <Count>1826</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -1742,7 +1742,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>469</Count>
+          <Count>471</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
@@ -1966,7 +1966,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1878</Count>
+          <Count>1893</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unlink Gradle Project">
@@ -2014,7 +2014,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>17</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
     </option>
