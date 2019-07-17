@@ -486,7 +486,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>916</Count>
+          <Count>917</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -678,7 +678,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1378</Count>
+          <Count>1379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActivationProcessServiceTest'">
@@ -1966,7 +1966,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1894</Count>
+          <Count>1895</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unlink Gradle Project">
