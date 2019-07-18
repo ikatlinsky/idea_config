@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>301</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -486,7 +486,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>919</Count>
+          <Count>925</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
