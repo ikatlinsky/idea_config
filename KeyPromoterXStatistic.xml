@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>396</Count>
+          <Count>404</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -775,6 +775,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ClaimAnswersServiceTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ClaimAssignmentServiceTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClaimAssignmentServiceTest'</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ClaimControllerTest'">
@@ -1742,7 +1750,7 @@
           <IdeaActionID>RunDashboard.Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop</Description>
-          <Count>494</Count>
+          <Count>495</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in clm-admin-service_test'">
