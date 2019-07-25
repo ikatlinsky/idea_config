@@ -1353,6 +1353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TaskAssignedReceiverTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'TaskAssignedReceiverTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TaskDefinitionControllerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
