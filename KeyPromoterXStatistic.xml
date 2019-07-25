@@ -406,7 +406,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>420</Count>
+          <Count>421</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1215,6 +1215,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'MonitoringApplication'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ObjectFieldUpdatedSubscriberTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ObjectFieldUpdatedSubscriberTest'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PartyFlowOptionsBuilderTest'">
