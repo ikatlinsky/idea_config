@@ -1433,6 +1433,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Tests in 'CLM.services.clm-claim-assignment-service.test''">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Tests in 'CLM.services.clm-claim-assignment-service.test''</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ThirdPartyRepositoryTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
