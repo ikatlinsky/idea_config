@@ -486,7 +486,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>946</Count>
+          <Count>947</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -678,7 +678,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1414</Count>
+          <Count>1415</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActionTypeProviderTest'">
