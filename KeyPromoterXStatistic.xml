@@ -1702,7 +1702,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1954</Count>
+          <Count>1955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -2062,7 +2062,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1950</Count>
+          <Count>1951</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unlink Gradle Project">
