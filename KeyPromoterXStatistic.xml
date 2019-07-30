@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>465</Count>
+          <Count>466</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1423</Count>
+          <Count>1424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActionTypeProviderTest'">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>RunDashboard.Debug</IdeaActionID>
           <ShortCut>'⌃⇧F9'</ShortCut>
           <Description>Rerun in Debug Mode</Description>
-          <Count>1953</Count>
+          <Count>1954</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
