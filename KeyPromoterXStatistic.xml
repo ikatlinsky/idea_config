@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>464</Count>
+          <Count>465</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -686,7 +686,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1421</Count>
+          <Count>1422</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActionTypeProviderTest'">
@@ -1734,7 +1734,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run</Description>
-          <Count>1876</Count>
+          <Count>1879</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All Tests'">
@@ -2062,7 +2062,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1949</Count>
+          <Count>1950</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unlink Gradle Project">
