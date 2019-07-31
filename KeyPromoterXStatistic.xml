@@ -153,6 +153,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'QuestionSetDefinitio...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧F9'</ShortCut>
+          <Description>Debug 'QuestionSetDefinitio...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TableChecksumCalculatorTest'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -414,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>482</Count>
+          <Count>487</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -494,7 +502,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>950</Count>
+          <Count>951</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -1358,7 +1366,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'QuestionSetDefinitionVersionRepositoryImplTest'</Description>
-          <Count>3</Count>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'QuestionSetDefinitionVersionRepositoryImplTest.whenSearchAndFilterForLatestVersions_withFilterByVersionNumber_thenReturnOnlyLatestVersions'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'QuestionSetDefinitionVersionRepositoryImplTest.whenSearchAndFilterForLatestVersions_withFilterByVersionNumber_thenReturnOnlyLatestVersions'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Rerun Failed Tests'">
@@ -1726,7 +1742,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>5804</Count>
+          <Count>5813</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -2078,7 +2094,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1953</Count>
+          <Count>1957</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unlink Gradle Project">
