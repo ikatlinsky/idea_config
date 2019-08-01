@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>266</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -422,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>487</Count>
+          <Count>489</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -694,7 +694,7 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1426</Count>
+          <Count>1427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ActionTypeProviderTest'">
