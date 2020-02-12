@@ -1,0 +1,80 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <option name="data">
+      <map>
+        <entry key="ActivateProjectToolWindow">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581493806454" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Back">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494320308" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CopyReference">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494324925" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorCopy">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494278488" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494281348" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494280494" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindUsages">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494254082" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494314044" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581494316451" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
