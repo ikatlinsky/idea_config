@@ -122,6 +122,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="RunDashboard.Stop">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581589369031" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Switcher">
           <value>
             <ActionSummary>
