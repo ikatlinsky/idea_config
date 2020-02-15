@@ -165,8 +165,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688459633" />
-              <option name="times" value="160" />
+              <option name="last" value="1581763031121" />
+              <option name="times" value="162" />
             </ActionSummary>
           </value>
         </entry>
@@ -405,8 +405,8 @@
         <entry key="GotoNextError">
           <value>
             <ActionSummary>
-              <option name="last" value="1581684562195" />
-              <option name="times" value="1" />
+              <option name="last" value="1581763011551" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -455,6 +455,22 @@
             <ActionSummary>
               <option name="last" value="1581676439862" />
               <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="OpenFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581762932955" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ProjectRefreshAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581762996720" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -549,8 +565,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581687033514" />
-              <option name="times" value="13" />
+              <option name="last" value="1581763015129" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
