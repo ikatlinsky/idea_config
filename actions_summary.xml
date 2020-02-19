@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106198241" />
-              <option name="times" value="8" />
+              <option name="last" value="1582106938365" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="DatabaseView.PropertiesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582105959551" />
-              <option name="times" value="4" />
+              <option name="last" value="1582106879046" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,16 +149,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106198387" />
-              <option name="times" value="615" />
+              <option name="last" value="1582107283826" />
+              <option name="times" value="616" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106130701" />
-              <option name="times" value="250" />
+              <option name="last" value="1582107044589" />
+              <option name="times" value="252" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,8 +293,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106195351" />
-              <option name="times" value="287" />
+              <option name="last" value="1582106938702" />
+              <option name="times" value="289" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581494280494" />
-              <option name="times" value="1" />
+              <option name="last" value="1582107278536" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -674,11 +674,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.database.dataSource.DataSourceScopeEditor$RefreshAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582106953927" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.database.run.ui.grid.GridFilterPanel$ApplyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106199255" />
-              <option name="times" value="4" />
+              <option name="last" value="1582107050834" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -765,16 +773,16 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581682425803" />
-              <option name="times" value="1" />
+              <option name="last" value="1582107294623" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106043598" />
-              <option name="times" value="8" />
+              <option name="last" value="1582107033566" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
