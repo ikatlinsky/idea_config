@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187656561" />
-              <option name="times" value="34" />
+              <option name="last" value="1582199100028" />
+              <option name="times" value="35" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582188516968" />
-              <option name="times" value="241" />
+              <option name="last" value="1582199166191" />
+              <option name="times" value="243" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,16 +437,16 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187573199" />
-              <option name="times" value="1" />
+              <option name="last" value="1582199075645" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187647024" />
-              <option name="times" value="86" />
+              <option name="last" value="1582199164166" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +669,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187674348" />
-              <option name="times" value="156" />
+              <option name="last" value="1582199162309" />
+              <option name="times" value="160" />
             </ActionSummary>
           </value>
         </entry>
@@ -813,8 +813,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187579748" />
-              <option name="times" value="3" />
+              <option name="last" value="1582199078968" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
