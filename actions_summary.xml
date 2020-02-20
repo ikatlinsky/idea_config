@@ -85,8 +85,8 @@
         <entry key="CloseAllEditors">
           <value>
             <ActionSummary>
-              <option name="last" value="1582185221211" />
-              <option name="times" value="7" />
+              <option name="last" value="1582192111292" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +821,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582185273658" />
-              <option name="times" value="12" />
+              <option name="last" value="1582192112383" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
