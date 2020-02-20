@@ -29,8 +29,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582184778707" />
-              <option name="times" value="100" />
+              <option name="last" value="1582187572062" />
+              <option name="times" value="101" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679934872" />
-              <option name="times" value="31" />
+              <option name="last" value="1582187656561" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="CopyReference">
           <value>
             <ActionSummary>
-              <option name="last" value="1582009530084" />
-              <option name="times" value="8" />
+              <option name="last" value="1582187678385" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,8 +413,16 @@
         <entry key="FindUsages">
           <value>
             <ActionSummary>
-              <option name="last" value="1581679104993" />
-              <option name="times" value="4" />
+              <option name="last" value="1582187479872" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Forward">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582187660353" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -426,11 +434,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoClass">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582187573199" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582184850648" />
-              <option name="times" value="83" />
+              <option name="last" value="1582187647024" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +669,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1582185059495" />
-              <option name="times" value="154" />
+              <option name="last" value="1582187674348" />
+              <option name="times" value="156" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +813,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107294623" />
-              <option name="times" value="2" />
+              <option name="last" value="1582187579748" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
