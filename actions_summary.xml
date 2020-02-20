@@ -21,8 +21,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106938365" />
-              <option name="times" value="10" />
+              <option name="last" value="1582206075503" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="CloseAllEditors">
           <value>
             <ActionSummary>
-              <option name="last" value="1582192111292" />
-              <option name="times" value="8" />
+              <option name="last" value="1582205991230" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,16 @@
         <entry key="DatabaseView.PropertiesAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582106879046" />
-              <option name="times" value="6" />
+              <option name="last" value="1582206066673" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="DatabaseView.Refresh">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582206209448" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +309,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582185136491" />
-              <option name="times" value="350" />
+              <option name="last" value="1582206075720" />
+              <option name="times" value="351" />
             </ActionSummary>
           </value>
         </entry>
@@ -821,8 +829,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582192112383" />
-              <option name="times" value="14" />
+              <option name="last" value="1582205985158" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
