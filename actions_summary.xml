@@ -37,8 +37,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582217597215" />
-              <option name="times" value="3" />
+              <option name="last" value="1582289952211" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582217644132" />
-              <option name="times" value="38" />
+              <option name="last" value="1582290268320" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="CloseAllEditors">
           <value>
             <ActionSummary>
-              <option name="last" value="1582276206769" />
-              <option name="times" value="10" />
+              <option name="last" value="1582289947968" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -141,8 +141,8 @@
         <entry key="CopyReference">
           <value>
             <ActionSummary>
-              <option name="last" value="1582217688176" />
-              <option name="times" value="17" />
+              <option name="last" value="1582290297866" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -461,8 +461,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582217763149" />
-              <option name="times" value="102" />
+              <option name="last" value="1582290323458" />
+              <option name="times" value="106" />
             </ActionSummary>
           </value>
         </entry>
